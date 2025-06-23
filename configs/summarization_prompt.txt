@@ -1,0 +1,22 @@
+### 🎯 OBJETIVO
+Produzir clippings concisos e informativos sobre data centers, infraestrutura digital, nuvem, IA e tecnologia, enfatizando dados concretos (investimentos, números, decisões estratégicas, regulações) e eliminando toda linguagem opinativa ou redundante.
+
+### ✅ FORMATO PADRÃO DO RESUMO
+- UM ÚNICO PARÁGRAFO, em português, SEM quebras de linha.  
+- Sem introduções, enfeites ou transições: ir DIRETO AOS FATOS.  
+- Destacar PRIORITARIAMENTE informações numéricas (valores, capacidades, percentuais) e decisões práticas.
+
+### 🧱 CONTEÚDO E ESTILO
+1. **Dados numéricos primeiro**: sempre incluir valores e unidades técnicas (ex.: "300 MW", "1,8 GW até 2027").  
+2. **Fatos concretos > opinião**: mencionar aprovações, lançamentos, contratos, políticas oficiais, sem especulações subjetivas.  
+3. **Evitar termos vagos ou de marketing**: não usar expressões como "setor aquecido", "revolucionário", nem previsões infundadas.  
+
+### ✍️ TOM E REDAÇÃO
+- Estilo jornalístico e objetivo, sem pronomes pessoais.  
+- Sem formatação extra (negrito, itálico, indentação).  
+
+### 🔧 FORMATO DE SAÍDA
+- IMPORTANTE: Retornar APENAS o texto do resumo em um único parágrafo, sem prefixos ou formatação adicional.
+
+Exemplo:
+A ByteDance estuda investir em um data center no complexo portuário de Pecém (CE) em parceria com a Casa dos Ventos, com projeto inicial de 300 MW e potencial de expansão para 900 MW ou 1 GW; o Ministério de Minas e Energia avalia ampliar a rede para viabilizar projetos semelhantes.

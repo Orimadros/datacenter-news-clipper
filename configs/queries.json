@@ -1,0 +1,77 @@
+[
+  {
+    "query": "datacenterdynamics",
+    "days": 7,
+    "country": "br"
+  },
+  {
+    "query": "datacenterdynamics",
+    "days": 7,
+    "country": "us"
+  },
+  {
+    "query": "data center",
+    "days": 7,
+    "country": "br"
+  },
+  {
+    "query": "cloud computing",
+    "days": 7,
+    "country": "br"
+  },
+  {
+    "query": "aws",
+    "days": 7,
+    "country": "br"
+  },
+  {
+    "query": "microsoft azure",
+    "days": 7,
+    "country": "br"
+  },
+  {
+    "query": "google cloud",
+    "days": 7,
+    "country": "br"
+  },
+  {
+    "query": "oracle cloud",
+    "days": 7,
+    "country": "br"
+  },
+  {
+    "query": "alibaba cloud",
+    "days": 7,
+    "country": "br"
+  },
+  {
+    "query": "huawei cloud",
+    "days": 7,
+    "country": "br"
+  },
+  {
+    "query": "equinix",
+    "days": 7,
+    "country": "br"
+  },
+  {
+    "query": "ascenty",
+    "days": 7,
+    "country": "br"
+  },
+  {
+    "query": "scala data centers",
+    "days": 7,
+    "country": "br"
+  },
+  {
+    "query": "elea data centers",
+    "days": 7,
+    "country": "br"
+  },
+  {
+    "query": "odata",
+    "days": 7,
+    "country": "br"
+  }
+]
