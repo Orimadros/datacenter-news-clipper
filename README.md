@@ -174,7 +174,7 @@ pip install -r requirements.txt
 
 ### Set Up Your .env File
 
-You should receive a `.env` file separately. Place it in the main project folder (same level as `main.py`).
+You should create a file named simply `.env` in the main project folder (yes, starting with a dot). Ask Leo for the API key uesd for the AI models employed in this project. You will write it to the `.env` file
 
 The `.env` file should look like this:
 ```
